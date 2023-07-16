@@ -127,6 +127,90 @@ nav li a{
     font-weight: 700;
     line-height: normal;
 }
+
+/* Enjoy Features section  */
+.enjoy{
+    display: flex;
+    justify-content: center;
+    margin: 50px 250px 50px 250px;
+    gap: 70px;
+}
+.enjoy-img img{
+    width: 500px;
+    height: 850px;
+    margin-top: 50px;
+    
+}
+.box{
+    width: 342px;
+    height: 180px;
+    border-radius: 8px;
+    background: #FF900E;
+    color: white;
+    position: relative;
+    bottom: 150px;
+    margin-left: -70px;
+}
+.box-title{
+    color: #FFF;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px; /* 107.692% */
+    margin-bottom: 0px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+     
+}
+.box-des{
+    color: #FFF;
+    font-family: Work Sans;
+    text-align: center;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    margin-top:-5px;
+}
+.enjoy-title{
+    width: 468px;
+    color:  #131313;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.enjoy .enjoy-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 10px;
+}
+.enjoy-card{
+    padding: 10px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+}
+.love-title{
+    color: #131313;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.card-des{
+    width: 514px;
+    color:  #727272;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+
 /* Facts section  */
 .facts{
     margin-left: 100px;
