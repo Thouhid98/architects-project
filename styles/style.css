@@ -179,3 +179,52 @@ nav li a{
     font-weight: 600;
     color: #727272;
 }
+/* sponsor section  */
+.sponsor{
+    text-align: center;
+    margin-top: 100px;
+}
+.sponsor-title{
+    color: var(--dark-01, #131313);
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.sponsor-des{
+    width: 542px;
+    margin: 0 auto;
+    color:  #727272;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+.logo{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+    margin-right: 140px;
+}
+/* footer styles  */
+.footer{
+    width: auto;
+    height: 100px;
+    margin: 100px;
+    border-radius: 8px;
+    background: #FFF4E7;
+}
+.footer-des{
+    color:  #424242;
+    margin-top: 50px;
+    padding-top: 40px;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
